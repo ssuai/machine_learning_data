@@ -1,2 +1,1 @@
-# machine_learning_data
-data for machine learning course
+code is [here](https://github.com/ssuai/machine_learning)
